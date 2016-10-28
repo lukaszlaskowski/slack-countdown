@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: latin-1 -*-
 from flask.ext.script import Manager
 from flask import Flask
 from datetime import datetime
